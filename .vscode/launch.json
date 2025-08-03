@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AuthifyApplication<authify>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.priyatosh.authify.AuthifyApplication",
+            "projectName": "authify",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
