@@ -57,14 +57,3 @@ Priyatosh Sarkar
 GitHub
 
 📄 License
-This project is open-source under the MIT License.
-### ✅ How to Add This to GitHub:
-
-1. Save it as a file in your project root: `README.md`
-
-2. Run this in Git Bash or PowerShell:
-
-```bash
-git add README.md
-git commit -m "Add README for Authfy Web App"
-git push
